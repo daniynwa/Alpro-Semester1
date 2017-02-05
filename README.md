@@ -1,2 +1,3 @@
-# Algoritma
+# hello-world
+
 Tugas Algoritma C++
