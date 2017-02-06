@@ -1,4 +1,5 @@
-# Algoritma
+# hello-world
+
 Tugas Algoritma C++
 Dani Afriyadi Yusuf
 Teknik Informatika 16
