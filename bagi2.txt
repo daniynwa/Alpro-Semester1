@@ -1,0 +1,42 @@
+*Dani Afriyadi Yusuf*
+=====================================
+Kelas	:TIF.K 16A
+NPM	: 16 111 286
+Tugas	: Algoritma (binery search)
+=====================================
+
+Proses program:
+1. Pertama mendeklarasikan/membuat sebuah int 'a' dengan ukuran 5,
+setelah itu kita masukan data berbentuk angka ke elemen array/interger
+(ex. {20,30,40,50,60}
+
+2. Kemudian membuat variable baru berbentuk integer 'i,cari,ia,tengah,ib' 
+untuk menyimpan data yg akan kita cari.
+
+3. Membuat proses inputan pencarian yang akan disimpan pada variable 'cari'
+
+4. Pada proses bagi2 dua kita harus membuat 3 variable untuk menginisialisasi
+batas index array, makanya tadi membuat variable 'ia' ,tengah dan 'ib' untuk membuat
+batas index yg di bagi nanti.
+
+ia = 0
+ib = 4
+
+5.kemudian membuat proses pencarian
+
+6. setelah proses pencarian selesai, langsung mulai ke proses pembagian
+
+tengah=(ia+ib)/2
+
+7.
+(cari>a[tengah]) jika data yang dicari lebih besar dari data 'tengah' maka data 'ia' sama dengan
+data 'tengah' plus 1
+
+cari<a[tengah])  jika data yang dicari lebih kecil dari data 'tengah' maka data 'ib' sama dengan
+data 'tengah' minus 1
+
+9. sampai menemukan data yg benar, maka akan keluar data yg dicari. jika data tidak ada atau tidak
+ditemukan "false"
+
+
+Terimakasih....
